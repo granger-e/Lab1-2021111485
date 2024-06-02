@@ -7,6 +7,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.List;
 
+
 public class App {
 
     private int[][] adjacencyMatrix;//邻接矩阵
